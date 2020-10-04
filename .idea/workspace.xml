@@ -9,7 +9,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Check My Work">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -279,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601825508724</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Check My Work">
+      <created>1601825738870</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601825738870</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -303,10 +313,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="622" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601818418079" />
-    <state x="212" y="0" key="CommitChangelistDialog2" timestamp="1601825506262">
+    <state x="212" y="0" key="CommitChangelistDialog2" timestamp="1601826657394">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="212" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601825506262" />
+    <state x="212" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601826657394" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601740182177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -347,18 +357,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601740163609" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601825511081">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601825740948">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601825511081" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601825740948" />
     <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601727633477">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728@0.0.1366.728" timestamp="1601727633477" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601814749244">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601826544007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601814749244" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601826544007" />
     <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1601738522083">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
