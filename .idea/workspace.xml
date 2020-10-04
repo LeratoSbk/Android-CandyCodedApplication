@@ -320,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601828214588</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Check My Work">
+      <created>1601829046381</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601829046381</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -344,10 +351,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="622" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601818418079" />
-    <state x="212" y="0" key="CommitChangelistDialog2" timestamp="1601828212041">
+    <state x="212" y="0" key="CommitChangelistDialog2" timestamp="1601829044147">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="212" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601828212041" />
+    <state x="212" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601829044147" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601740182177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -388,10 +395,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601740163609" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601828216979">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601829062414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601828216979" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601829062414" />
     <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601727633477">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
