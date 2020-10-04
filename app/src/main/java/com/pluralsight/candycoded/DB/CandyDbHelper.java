@@ -1,11 +1,14 @@
 package com.pluralsight.candycoded.DB;
 
-import android.content.Context;
+import android.app.Activity;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
+import com.pluralsight.candycoded.DetailActivity;
+
 public class CandyDbHelper extends SQLiteOpenHelper {
-    public CandyDbHelper(Context context) {
+   /** public CandyDbHelper(DetailActivity context) { */
+         public CandyDbHelper(Activity context) {
         super(context,
               CandyContract.DB_NAME,
               null,

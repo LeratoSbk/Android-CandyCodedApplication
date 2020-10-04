@@ -14,12 +14,14 @@ import com.pluralsight.candycoded.DB.CandyContract;
 import com.pluralsight.candycoded.DB.CandyContract.CandyEntry;
 import com.pluralsight.candycoded.DB.CandyDbHelper;
 import com.squareup.picasso.Picasso;
+import android.app.Activity;
 
 public class DetailActivity extends AppCompatActivity {
 
     public static final String SHARE_DESCRIPTION = "Look at this delicious candy from Candy Coded - ";
     public static final String HASHTAG_CANDYCODED = " #candycoded";
     String mCandyImageUrl = "";
+    private CandyDbHelper DbHelper;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,8 +33,9 @@ public class DetailActivity extends AppCompatActivity {
         if (intent != null && intent.hasExtra("position")) {
             int position = intent.getIntExtra("position", 0);
 
-            CandyDbHelper dbHelper = new CandyDbHelper(this);
-            SQLiteDatabase db = dbHelper.getWritableDatabase();
+        CandyDbHelper dbHelper = new CandyDbHelper(this);
+       /**     DbHelper = new CandyDbHelper(this); */
+            SQLiteDatabase db = DbHelper.getWritableDatabase();
             Cursor cursor = db.rawQuery("SELECT * FROM candy", null);
             cursor.moveToPosition(position);
 

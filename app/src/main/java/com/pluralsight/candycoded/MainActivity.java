@@ -22,11 +22,13 @@ import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.TextHttpResponseHandler;
 
 import cz.msebera.android.httpclient.Header;
+import android.app.Activity;
 
 
 public class MainActivity extends AppCompatActivity {
     private Candy[] candies;
-    private CandyDbHelper candyDbHelper = new CandyDbHelper(this);
+   /** private CandyDbHelper candyDbHelper = new CandyDbHelper(this); */
+   private CandyDbHelper candyDbHelper = new CandyDbHelper(this);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
