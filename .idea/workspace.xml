@@ -10,18 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DB/CandyCursorAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DB/CandyCursorAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DB/CandyDbHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DB/CandyDbHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +191,19 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Check My Work">
+      <created>1601817530398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601817530398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Check My Work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check My Work" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="8" key="#app" timestamp="1601572105051">
@@ -216,30 +218,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1601817033639" />
-    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1601570622544">
+    <state x="622" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1601818418079">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601570622544" />
+    <state x="622" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601818418079" />
+    <state x="212" y="0" key="CommitChangelistDialog2" timestamp="1601817523797">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="212" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601817523797" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601740182177">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601740182177" />
-    <state width="653" height="220" key="GridCell.Tab.0.bottom" timestamp="1601817377592">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom" timestamp="1601818210988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="653" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601817377592" />
-    <state width="653" height="220" key="GridCell.Tab.0.center" timestamp="1601817377592">
+    <state width="1306" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601818210988" />
+    <state width="1306" height="176" key="GridCell.Tab.0.center" timestamp="1601818210988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="653" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601817377592" />
-    <state width="653" height="220" key="GridCell.Tab.0.left" timestamp="1601817377592">
+    <state width="1306" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601818210988" />
+    <state width="1306" height="176" key="GridCell.Tab.0.left" timestamp="1601818210988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="653" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601817377592" />
-    <state width="653" height="220" key="GridCell.Tab.0.right" timestamp="1601817377592">
+    <state width="1306" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601818210988" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right" timestamp="1601818210988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="653" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601817377592" />
+    <state width="1306" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601818210988" />
     <state width="653" height="220" key="GridCell.Tab.1.bottom" timestamp="1601817377592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -260,6 +266,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601740163609" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601817541443">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601817541443" />
     <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601727633477">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
